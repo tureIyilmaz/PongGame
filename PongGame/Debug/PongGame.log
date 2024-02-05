@@ -1,0 +1,65 @@
+﻿  win32Platform.cpp
+C:\Users\turel\Documents\Games\PongGame\PongGame\renderer.cpp(58,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'win32Platform.cpp')
+  
+C:\Users\turel\Documents\Games\PongGame\PongGame\renderer.cpp(59,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'win32Platform.cpp')
+  
+C:\Users\turel\Documents\Games\PongGame\PongGame\renderer.cpp(60,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'win32Platform.cpp')
+  
+C:\Users\turel\Documents\Games\PongGame\PongGame\renderer.cpp(61,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'win32Platform.cpp')
+  
+C:\Users\turel\Documents\Games\PongGame\PongGame\renderer.cpp(74,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'win32Platform.cpp')
+  
+C:\Users\turel\Documents\Games\PongGame\PongGame\renderer.cpp(74,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'win32Platform.cpp')
+  
+C:\Users\turel\Documents\Games\PongGame\PongGame\renderer.cpp(75,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'win32Platform.cpp')
+  
+C:\Users\turel\Documents\Games\PongGame\PongGame\renderer.cpp(75,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'win32Platform.cpp')
+  
+C:\Users\turel\Documents\Games\PongGame\PongGame\renderer.cpp(75,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'win32Platform.cpp')
+  
+C:\Users\turel\Documents\Games\PongGame\PongGame\renderer.cpp(76,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'win32Platform.cpp')
+  
+C:\Users\turel\Documents\Games\PongGame\PongGame\renderer.cpp(76,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'win32Platform.cpp')
+  
+C:\Users\turel\Documents\Games\PongGame\PongGame\renderer.cpp(76,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'win32Platform.cpp')
+  
+C:\Users\turel\Documents\Games\PongGame\PongGame\renderer.cpp(77,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'win32Platform.cpp')
+  
+C:\Users\turel\Documents\Games\PongGame\PongGame\renderer.cpp(77,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'win32Platform.cpp')
+  
+C:\Users\turel\Documents\Games\PongGame\PongGame\renderer.cpp(77,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'win32Platform.cpp')
+  
+C:\Users\turel\Documents\Games\PongGame\PongGame\renderer.cpp(77,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'win32Platform.cpp')
+  
+C:\Users\turel\Documents\Games\PongGame\PongGame\game.cpp(312,31): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'win32Platform.cpp')
+  
+C:\Users\turel\Documents\Games\PongGame\PongGame\game.cpp(347,27): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'win32Platform.cpp')
+  
+C:\Users\turel\Documents\Games\PongGame\PongGame\game.cpp(353,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'win32Platform.cpp')
+  
+C:\Users\turel\Documents\Games\PongGame\PongGame\game.cpp(358,27): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'win32Platform.cpp')
+  
+C:\Users\turel\Documents\Games\PongGame\PongGame\game.cpp(360,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'win32Platform.cpp')
+  
+  PongGame.vcxproj -> C:\Users\turel\Documents\Games\PongGame\Debug\PongGame.exe
